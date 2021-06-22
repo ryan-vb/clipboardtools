@@ -1,2 +1,2 @@
 
-number = root.clipboard_get()
+# root.clipboard_get()
